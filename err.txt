@@ -1,0 +1,17 @@
+-Entrance Scene မွာ User Profile မ႐ွိ
+-Back Button UI and Setting icon Change
+-Setting panel UI Change
+3D Model not found in Multiple Choice and AR
+-xylophone
+-hat
+-zoo
+-kite
+-viollin
+-pileapple
+-table
+
+-Whale model နဲ႔အတူ ပန္းေရာင္တခု ေပၚေန
+-King model ကေသးၿပီး rotate အဆင္မေျပ
+-Snake model အဆင္မေျပ
+
+-Download all လုပ္ၿပီး intern ပိတ္လို႔ ျပန္ဖြင့္အခါ တခ်ိဳ႕ model ေတြ မေပၚလာ (matching ဆို တ scene လုံး မေပၚလာ)
